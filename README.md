@@ -22,10 +22,10 @@ O objetivo deste projeto foi explorar os recursos do **AI Foundry no Azure**, fo
 - Acesse o **Azure AI Foundry** e crie um **recurso** para utilizar os serviços de Machine Learning.
 - No menu à esquerda, clique em **Playground** e depois em **Language Playground**.
 
-  ![Site AZURE FOUNDRY](1 - Azure AI Foundry.jpg)
+  ![Site AZURE FOUNDRY](1-Foundry.jpg)
 
   
-  ![Create playground](2 - create playground.jpg)
+  ![Create playground](2-create.jpg)
 
 
 ### 🔹 2. Análise de Sentimentos  
@@ -38,9 +38,9 @@ O objetivo deste projeto foi explorar os recursos do **AI Foundry no Azure**, fo
   - 🔹 A análise detalhada de **termos-chave** usados para determinar o sentimento.
 
 
-  ![Exemplo de Análise de Sentimentos](3 - classify.jpg)
+  ![Exemplo de Análise de Sentimentos](3-classify.jpg)
 
-  ![Exemplo de Análise de Sentimentos](4 - opinion.jpg)
+  ![Exemplo de Análise de Sentimentos](4-opinion.jpg)
 
 ---
 
@@ -49,7 +49,7 @@ O objetivo deste projeto foi explorar os recursos do **AI Foundry no Azure**, fo
 - Insira uma frase em qualquer idioma e execute a análise.
 - O sistema identificou corretamente o idioma, confirmando a eficácia do modelo.
 
-  ![Linguage Idioma](5 - Detect Language.jpg)
+  ![Linguage Idioma](5-Detect.jpg)
 
 ---
 
@@ -59,7 +59,7 @@ O objetivo deste projeto foi explorar os recursos do **AI Foundry no Azure**, fo
 - Configurei as **características do narrador**, personalizando sua personalidade e tom de voz.
 - Fiz um **input solicitando a geração de uma história**, conforme mostrado no print abaixo:
 
-  ![Configuração do Chat com GPT-4](6 - chat.jpg)
+  ![Configuração do Chat com GPT-4](6-chat.jpg)
 
 - O chat gerou um texto baseado na configuração do narrador, mostrando a capacidade de personalização do modelo.
 
